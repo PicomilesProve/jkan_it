@@ -1,19 +1,19 @@
-title: OpendataGentediPrato
-greeting: Benvenuto su OpendataGentediPrato
-description: Un semplice portale di dati dalla gente di Prato per la gente di Prato.
-baseurl: /opendatagentediprato
+title: jkan_it
+greeting: Prove su Jkan forked da OpendataGentediPrato
+description: Prove su un portale di dati derivato da OpendataGentediPrato fork italiano dell'originale JKAN.
+baseurl: /jkan_it
 logo: /img/jkan.png
 
 # Site theme
-theme: Default
+theme: minima
 
 # Authentication
 github_client_id: 94d5c2c76b1847f79b29
 gatekeeper_host: https://opendatagentediprato.herokuapp.com
 
 #Social Links
-facebook-page: https://www.facebook.com/Opendata-Gente-di-Prato-996274160459781/
-twitter: https://twitter.com/odgentediprato
+facebook-page: 
+twitter: 
 
 # Dataset schema
 schema: opendataschema
